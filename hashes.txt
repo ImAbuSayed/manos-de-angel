@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Manos de ángel, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Manos de ángel, Vol. 2** (manos-de-angel-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T10:41:51.237955 | `v1` | `c9ef91135e6cd14d3fd9a63a678d2663a734b653af748876b0d2ed5c2e9b5d8f` | `946bc89b69e42ede51c7a689bb1c978597ff5dcfa8c02751a99cbbc155e56213` | `2026-06-23_manos-de-angel-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

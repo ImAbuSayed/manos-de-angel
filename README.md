@@ -1,4 +1,4 @@
-# Manos de ángel
+# Manos de ángel, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Manos de ángel |
+| **Title** | Manos de ángel, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/manos-de-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Manos de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/manos-de-angel/) |
+| **Get License** | [Get a Licensing Quote for Manos de ángel, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/manos-de-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, tú sabes que la noche mola de verdad,
+> Con esa energía vas rompiendo la ciudad,
+> Una copa, dos tragos, perdiendo la gravedad,
+> Cruzando los límites, cero casualidad.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 22, 2026 |
+| **SHA-256 Hash** | `c9ef91135e6cd14d3fd9a63a678d2663a734b653af748876b0d2ed5c2e9b5d8f` |
+| **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

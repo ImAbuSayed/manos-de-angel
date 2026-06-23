@@ -1,6 +1,6 @@
 # License
 
-**Manos de ángel**
+**Manos de ángel, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
